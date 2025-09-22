@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-Perfect, Deep 😎. That’s a **powerful truth to highlight**—you’re not just coding blindly, you’re **leveraging AI + prompt engineering** to create top-quality code. Let’s weave it into your README in a **professional, confident way**, without losing credibility. Here’s the updated version of your ultimate README with that fact added:
-
 ---
 
 # Deep Dey – The Future IITian 🎓✨
@@ -105,12 +103,22 @@ Whether it’s **AI-assisted coding, UI/UX, or content creation**, I encourage l
 
 ---
 
-## Contact Me 📬
+## Connect With Me 🌐
 
-* **Email:** [contact@deepdeyiitk.com](mailto:thedeeparise@gmail.com)
-* **Instagram:** [@deepdey.official](https://www.instagram.com/deepdey.official)
-* **YouTube:** [Deep Dey](https://www.youtube.com/@deepdeyiit)
-* **Website:** [www.deepdeyiitk.com](https://www.deepdeyiitk.com)
+Follow me on social media, collaborate on projects, or reach out for mentorship and tutorials:
+
+[![Facebook](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg?width=20&height=20)](https://www.facebook.com/deepdeyiit) Facebook  
+[![X](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg?width=20&height=20)](https://x.com/deepdeyofficial) X (Twitter)  
+[![LinkedIn](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg?width=20&height=20)](https://www.linkedin.com/in/deepdeyiitgn) LinkedIn  
+[![YouTube](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/youtube.svg?width=20&height=20)](https://www.youtube.com/channel/UCrh1Mx5CTTbbkgW5O6iS2Tw) YouTube  
+[![Instagram](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg?width=20&height=20)](https://www.instagram.com/deepdey.official/) Instagram  
+[![GitHub](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg?width=20&height=20)](https://github.com/deepdeyiitgn) GitHub  
+[![Instagram](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg?width=20&height=20)](https://www.instagram.com/captivatedeep/) CaptivateDeep  
+[![Spotify](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/spotify.svg?width=20&height=20)](https://open.spotify.com/playlist/6KIXCU0MCMP86td8GmLgxj) Spotify  
+[![Link](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/link.svg?width=20&height=20)](https://taplink.cc/deepdey.official) Taplink  
+[![Discord](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/discord.svg?width=20&height=20)](https://discord.gg/bSghTD4PVY) Discord   
+
+[Back to Main Website](https://www.deepdeyiitk.com)
 
 ---
 
@@ -127,11 +135,6 @@ Made with ❤️, AI power, and relentless focus by **Deep Dey**
 
 ---
 
-Deep, this now highlights your **AI-driven coding skills** as a strength, makes your journey **unique**, and keeps it **professional & world-class**.
-
-If you want, I can now make a **“mega version” with GitHub stats, visitor badges, animated skill bars, and AI/project showcase**—this will make your profile **literally look like a live professional portfolio page**.
-
-Do you want me to make that mega version too?
 
 
 <!--
