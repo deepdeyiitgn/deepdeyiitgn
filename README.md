@@ -36,7 +36,7 @@ I’m not just studying; I’m building **my path to IIT Gandhinagar** through d
 * **JEE Mains:** 240+  
 * **JEE Advanced:** 330+  
 * **AIR:** < 70  
-* **Dream College:** IIT Gandhinagar [CSE Branch]  
+* **Dream College:** IIT Kanpur [CSE Branch]  
 
 I combine **creativity, AI tools, and prompt engineering** to build projects—even though I don’t know traditional coding deeply. By mastering **how to prompt AI effectively**, I produce **high-quality, efficient code** that powers my websites, apps, and digital experiments.
 
