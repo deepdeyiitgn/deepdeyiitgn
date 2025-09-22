@@ -103,9 +103,18 @@ Whether it’s **AI-assisted coding, UI/UX, or content creation**, I encourage l
 
 ---
 
-## Connect With Me 🌐
+## 📬 Contact & Connect With Me
 
-<div style="display:flex; flex-wrap:wrap; gap:12px;">
+Hey! Wanna reach out or just say hi? 💜  
+Click the button below to send me an email directly:
+
+[Send Me a Message 📧](mailto:thedeeparise@gmail.com?subject=Hello%20Deep&body=Hey%20Deep!%20I%20am%20reaching%20out%20because...)
+
+---
+
+### 🌐 Connect on Social Media
+
+<div style="display:flex; flex-wrap:wrap; gap:12px; margin-top:12px;">
 
   <a href="https://www.facebook.com/deepdeyiit" target="_blank" style="display:flex; align-items:center; text-decoration:none; color:#1877F2; font-weight:600;">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" alt="Facebook" style="width:20px; height:20px; margin-right:6px;">Facebook
@@ -152,36 +161,6 @@ Whether it’s **AI-assisted coding, UI/UX, or content creation**, I encourage l
 <div style="margin-top:20px;">
   <a href="https://www.deepdeyiitk.com" style="color:#3a0ca3; font-weight:700; text-decoration:underline;">Back to Main Website</a>
 </div>
-
-<!-- Contact Form Section -->
-<section class="section contact-form-section">
-  <div class="form-container">
-    <form action="mailto:thedeeparise@gmail.com" method="POST" enctype="text/plain" class="contact-form">
-      <label for="name">Name</label>
-      <input type="text" id="name" name="name" placeholder="Your Name" required>
-
-      <label for="email">Email</label>
-      <input type="email" id="email" name="email" placeholder="Your Email" required>
-
-      <label for="message">Message</label>
-      <textarea id="message" name="message" placeholder="Your Message" rows="6" required></textarea>
-
-      <button type="submit" class="btn">Send Message</button>
-    </form>
-  </div>
-</section>
-
-<!-- Social Links Section -->
-<section class="cta">
-  <h2>Connect With Me</h2>
-  <p>Follow me on social media, collaborate on projects, or reach out for mentorship and tutorials.</p>
-  <div class="social-links" style="margin-top:32px;">
-    <!-- Paste the small-button social links HTML here -->
-  </div>
-  <div style="margin-top:32px;">
-    <a href="https://www.deepdeyiitk.com" style="color:#3a0ca3; font-weight:700; text-decoration:underline;">Back to Main Website</a>
-  </div>
-</section>
 
 
 ---
