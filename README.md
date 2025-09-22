@@ -2,6 +2,20 @@
 
 ---
 
+<div align="center">
+<!-- Default Theme -->
+<!--![Snake Animation](https://raw.githubusercontent.com/Anuj579/Anuj579/output/github-contribution-grid-snake.svg)
+
+<!-- Uncomment the theme you prefer: -->
+
+<!-- 🌑 Dark Theme -->
+![Snake Animation](https://raw.githubusercontent.com/Anuj579/Anuj579/output/github-contribution-grid-snake-dark.svg)
+
+
+</div>
+
+---
+
 # Deep Dey – The Future IITian 🎓✨
 
 [![Website](https://img.shields.io/badge/Website-DeepDey-blue)](https://www.deepdeyiitk.com)
@@ -30,27 +44,30 @@ I combine **creativity, AI tools, and prompt engineering** to build projects—e
 
 ---
 
-## Skills & Tech Stack 💻
+### 🛠️ Tech Stack
 
-**Web Development & AI-Powered Coding:**
+- **Front-end & Web Development:**  
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+  ![SVG](https://img.shields.io/badge/SVG-FF9900?style=for-the-badge&logo=svg&logoColor=white)  
+  ![Canvas](https://img.shields.io/badge/Canvas-FF5733?style=for-the-badge&logo=javascript&logoColor=white)  
+  ![AI-powered Coding](https://img.shields.io/badge/AI-Prompt_Engineering-0F0F0F?style=for-the-badge&logo=openai&logoColor=white)
 
-* HTML5, CSS3, JavaScript, SVG Animations, Canvas Animations
-* AI-assisted code generation via **prompt engineering**
+- **Back-end & Programming:**  
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+  ![Odoo](https://img.shields.io/badge/Odoo-4A7EBB?style=for-the-badge&logo=odoo&logoColor=white)  
+  ![Razorpay](https://img.shields.io/badge/Razorpay-00AEE9?style=for-the-badge&logo=razorpay&logoColor=white)
 
-**Programming & Backend:**
+- **Design & Visuals / Content Creation:**  
+  ![Video Editing](https://img.shields.io/badge/Video_Editing-Premiere_Pro-FF0000?style=for-the-badge&logo=adobe-premiere&logoColor=white)
 
-* Python, Odoo Development (AI-assisted)
-* Razorpay Payment Integration, Secure Resource Delivery
+- **Other Tools & Community:**  
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+  ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)  
+  ![Website](https://img.shields.io/badge/DeepDey_Website-3A0CA3?style=for-the-badge&logo=webflow&logoColor=white)
 
-**Design & Visuals:**
-
-* Figma, Glassmorphism, Gradients, Confetti & Sparkle Effects, Animated SVG Blobs
-* Personalized UI for projects, donation pages, and resource portals
-
-**Other Tools:**
-
-* Git, GitHub Pages, GitHub Actions
-* Community building through YouTube & website
 
 ---
 
