@@ -71,6 +71,7 @@ I am building a path to the IIT dream not only through hard work and consistency
 | 🎯 **deepdey** | Modern, interactive learning resources and JEE study tools. | [deepdey Repo](https://github.com/deepdeyiitgn/deepdey) |
 | 🚀 **deydeep** | Personal experiments, AI-built web and educational utilities. | [deydeep Repo](https://github.com/deepdeyiitgn/deydeep) |
 | 💖 **donation** | Platform for donations and supporter engagement, with personalized thank-you pages. | [donation Repo](https://github.com/deepdeyiitgn/donation) |
+| 🔒 **Verify & Support** | A modular, client-side human verification system featuring multiple challenge modules (text, math, slider, moving dot), session management (6-hour token), and secure redirection. Fully static, professional, and deployable on GitHub Pages. | [support & verify Repo](https://github.com/deepdeyiitgn/support-page-deepdeyiitk.com) |
 
 ---
 
