@@ -72,7 +72,7 @@ I am building a path to the IIT dream not only through hard work and consistency
 | 🚀 **deydeep** | Personal experiments, AI-built web and educational utilities. | [deydeep Repo](https://github.com/deepdeyiitgn/deydeep) |
 | 💖 **donation** | Platform for donations and supporter engagement, with personalized thank-you pages. | [donation Repo](https://github.com/deepdeyiitgn/donation) |
 | 🔒 **Verify & Support** | A modular, client-side human verification system featuring multiple challenge modules (text, math, slider, moving dot), session management (6-hour token), and secure redirection. Fully static, professional, and deployable on GitHub Pages. | [support & verify Repo](https://github.com/deepdeyiitgn/support-page-deepdeyiitk.com) |
-
+| 🤖 **deepdey-discord_bot** | Modular Discord bot • Study tools, quizzes, reminders, games. Want to know All Features, Visit: [Click Here](https://deepdey-discord-bot.vercel.app) | [Bot's Repo](https://github.com/deepdeyiitgn/deepdey-discord_bot) |
 ---
 
 ## Other Projects 🗂️
