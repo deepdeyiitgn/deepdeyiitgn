@@ -11,6 +11,14 @@
 
 ---
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=deepdeyiitgn" alt="deepdeyiitgn's profile views" />
+</p>
+
+  
+
+---
+
 ## 📌 Table of Contents
 - [About Me](#about-me-🚀)
 - [Tech Stack](#️-tech-stack)
@@ -152,7 +160,9 @@ I do not write complex code by hand or have mastery over coding languages in the
 - 🌎 **Community:** Join a growing group of learners, builders, and dreamers.
 
 ---
-![](https://komarev.com/ghpvc/?username=deepdeyiitgn)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=deepdeyiitgn" alt="deepdeyiitgn's profile views" />
+</p>
 ---
 
 <p align="center">
