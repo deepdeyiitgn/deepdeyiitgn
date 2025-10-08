@@ -191,6 +191,9 @@ I do not write complex code by hand or have mastery over coding languages in the
   <em>Made with ❤️, AI power, and relentless focus by <b>Deep Dey</b></em>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Anuj579/Anuj579/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
+
+
+<div align="center"> 
+  
+  [![](https://raw.githubusercontent.com/Anuj579/Anuj579/output/github-contribution-grid-snake-dark.svg)](https://deepdeyiitk.com/)
+</div>
