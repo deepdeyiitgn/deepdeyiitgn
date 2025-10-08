@@ -152,6 +152,8 @@ I do not write complex code by hand or have mastery over coding languages in the
 - 🌎 **Community:** Join a growing group of learners, builders, and dreamers.
 
 ---
+![](https://komarev.com/ghpvc/?username=deepdeyiitgn)
+---
 
 <p align="center">
   <em>Made with ❤️, AI power, and relentless focus by <b>Deep Dey</b></em>
