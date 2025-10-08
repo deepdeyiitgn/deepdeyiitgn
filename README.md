@@ -160,10 +160,32 @@ I do not write complex code by hand or have mastery over coding languages in the
 - 🌎 **Community:** Join a growing group of learners, builders, and dreamers.
 
 ---
+<div align="center"> 
+  
+ [![Deep's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepdeyiitgn&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
+---
+<div align="center"> 
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepdeyiitgn&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
+---
+<div align="center"> 
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepdeyiitgn&stats_format=bytes)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
+---
+<div align="center"> 
+  
 <p align="center">
+ 
   <img src="https://komarev.com/ghpvc/?username=deepdeyiitgn" alt="deepdeyiitgn's profile views" />
 </p>
----
+</div>
+
 
 <p align="center">
   <em>Made with ❤️, AI power, and relentless focus by <b>Deep Dey</b></em>
