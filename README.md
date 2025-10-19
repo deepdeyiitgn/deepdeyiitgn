@@ -81,6 +81,7 @@ I am building a path to the IIT dream not only through hard work and consistency
 | 💖 **donation** | Platform for donations and supporter engagement, with personalized thank-you pages. | [donation Repo](https://github.com/deepdeyiitgn/donation) |
 | 🔒 **Verify & Support** | A modular, client-side human verification system featuring multiple challenge modules (text, math, slider, moving dot), session management (6-hour token), and secure redirection. Fully static, professional, and deployable on GitHub Pages. | [support & verify Repo](https://github.com/deepdeyiitgn/support-page-deepdeyiitk.com) |
 | 🤖 **deepdey-discord_bot** | Modular Discord bot • Study tools, quizzes, reminders, games. Want to know All Features, Visit: [Click Here](https://deepdey-discord-bot.vercel.app) | [Bot's Repo](https://github.com/deepdeyiitgn/deepdey-discord_bot) |
+| 🔗 **Quick Link** | A modern, fast, and easy-to-use URL shortener. Create custom, memorable short links for any website. Features include optional custom aliases and automatic expiration of links after 7 days., Visit: [Click Here](https://quick-link-url-shortener.vercel.app/) | [Shortner's Repo](https://github.com/deepdeyiitgn/QuickLink-URL-Shortener) |
 ---
 
 ## Other Projects 🗂️
