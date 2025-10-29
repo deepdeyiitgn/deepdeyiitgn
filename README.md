@@ -251,5 +251,5 @@ I do not write complex code by hand or have mastery over coding languages in the
 
 <div align="center"> 
   
-  [![](https://raw.githubusercontent.com/Anuj579/Anuj579/output/github-contribution-grid-snake-dark.svg)](https://deepdeyiitk.com/)
+  [![](https://raw.githubusercontent.com/deepdeyiitgn/deepdeyiitgn/9168ffe0ea26017a66cb396f5329afcc4a77c586/snake.svg)](https://www.youtube.com/channel/UCrh1Mx5CTTbbkgW5O6iS2Tw/)
 </div>
