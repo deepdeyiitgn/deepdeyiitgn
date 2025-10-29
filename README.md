@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" alt="wave" />
 </p>
 
-<h1 align="center">Hi, I'm Deep Dey <img src="https://img.shields.io/badge/-Future%20IITian-%23FF5F1F?style=flat-square&logo=google&logoColor=white" alt="Future IITian" /></h1>
+<h1 align="center">Hi, I'm Deep Dey <img src="https://img.shields.io/badge/-Future%20IITian-%23FF5F1F?style=flat-square&logo=youtube&logoColor=white" alt="Future IITian" /></h1>
 <p align="center">
   <b>AI-Powered Learner | JEE Aspirant | Content Creator | Building Tomorrow, Today</b><br>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=800&color=3A0CA3&center=true&vCenter=true&width=450&lines=JEE+2027+Aspirant;AI+%2B+Prompt+Engineering+Enthusiast;Web+%26+App+Innovator;Consistent+5AM+Study+Streaks;Made+with+%F0%9F%A9%B7+Deep;Helped+by+Gemini+%F0%9F%92%99;We+Are+Here+%F0%9F%A7%BF;Saiyaara+%26+Aashiqui+2+%E2%9C%A8;Feminist+%E2%9C%A8;Jee+Aspirant+2027+%F0%9F%8E%AF" alt="Typing SVG">
