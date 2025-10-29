@@ -48,29 +48,64 @@ I am building a path to the IIT dream not only through hard work and consistency
 
 ## 🛠️ Tech Stack
 
-**Front-end & Web:**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SVG](https://img.shields.io/badge/SVG-FF9900?style=for-the-badge&logo=svg&logoColor=white)
-![Canvas](https://img.shields.io/badge/Canvas-FF5733?style=for-the-badge&logo=javascript&logoColor=white)
+### 🎨 **Front-end & Web**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-EF00A5?style=for-the-badge\&logo=framer\&logoColor=white)
+![SVG](https://img.shields.io/badge/SVG-FF9900?style=for-the-badge\&logo=svg\&logoColor=white)
+![Canvas](https://img.shields.io/badge/Canvas-FF5733?style=for-the-badge\&logo=javascript\&logoColor=white)
 ![AI Prompt Engineering](https://img.shields.io/badge/AI-Prompt_Engineering-0F0F0F?style=for-the-badge&logo=openai&logoColor=white)
 
-**Back-end & Tools:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Odoo](https://img.shields.io/badge/Odoo-4A7EBB?style=for-the-badge&logo=odoo&logoColor=white)
-![Razorpay](https://img.shields.io/badge/Razorpay-00AEE9?style=for-the-badge&logo=razorpay&logoColor=white)
+---
 
-**Media & Content:**  
-![Premiere Pro](https://img.shields.io/badge/Video_Editing-Premiere_Pro-FF0000?style=for-the-badge&logo=adobe-premiere&logoColor=white)
-![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+### ⚙️ **Back-end & Database**
 
-**Workflow & Community:**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Website](https://img.shields.io/badge/DeepDey_Website-3A0CA3?style=for-the-badge&logo=webflow&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
+![Serverless](https://img.shields.io/badge/Serverless-yellow?style=for-the-badge\&logo=vercel\&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
+![Odoo](https://img.shields.io/badge/Odoo-4A7EBB?style=for-the-badge\&logo=odoo\&logoColor=white)
+![Razorpay](https://img.shields.io/badge/Razorpay-00AEE9?style=for-the-badge\&logo=razorpay\&logoColor=white)
+![discord.py](https://img.shields.io/badge/discord.py-5865F2?style=for-the-badge\&logo=discord\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
 
 ---
+
+### 🎬 **Media & Content Creation**
+
+![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge\&logo=adobe-premiere-pro\&logoColor=white)
+![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge\&logo=adobe-after-effects\&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge\&logo=canva\&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
+![YouTube](https://img.shields.io/badge/Premium-FF0000?style=for-the-badge\&logo=youtube\&logoColor=white)
+
+---
+
+### 🧰 **Workflow, Hosting & Cloud**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Render](https://img.shields.io/badge/Render-181717?style=for-the-badge\&logo=render\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge\&logo=netlify\&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge\&logo=cloudflare\&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge\&logo=amazon-aws\&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge\&logo=google-cloud\&logoColor=white)
+![DeepDey\_Website](https://img.shields.io/badge/DeepDey_Website-3A0CA3?style=for-the-badge\&logo=webflow\&logoColor=white)
+
+---
+
 
 ## Pinned Projects ⭐
 
