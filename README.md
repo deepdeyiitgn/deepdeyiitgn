@@ -28,24 +28,21 @@
 ---
 
 ## 📌 Table of Contents
-- [About Me 🚀](#about-me-)
-  - [🎯 My Mission & Ambitious Goals](#-my-mission--ambitious-goals)
-- [⚙️ Tech Stack](#️-tech-stack)
-  - [🌐 Front-end & Web](#-front-end--web)
-  - [🧠 Back-end & Database](#-back-end--database)
-  - [🎥 Media & Content Creation](#-media--content-creation)
-  - [☁️ Workflow, Hosting & Cloud](#-workflow-hosting--cloud)
-- [⭐ Pinned Projects](#pinned-projects-)
-- [📁 Other Projects](#other-projects-️)
-- [🏆 Journey & Milestones](#journey--milestones-)
-  - [🏅 Key Achievements](#key-achievements)
-- [💡 My Philosophy](#my-philosophy-)
-- [🤝 Get Involved](#get-involved-)
-- [🌐 Contact & Socials](#contact--socials-)
-- [🌻 Why Follow My Journey?](#why-follow-my-journey-)
-
-
-
+- 🧡 [About Me 🚀](#about-me-)
+  - 💖 [🎯 My Mission & Ambitious Goals](#-my-mission--ambitious-goals)
+- 💙 [⚙️ Tech Stack](#️-tech-stack)
+  - 💚 [🌐 Front-end & Web](#-front-end--web)
+  - 💜 [🧠 Back-end & Database](#-back-end--database)
+  - 💛 [🎥 Media & Content Creation](#-media--content-creation)
+  - 💗 [☁️ Workflow, Hosting & Cloud](#-workflow-hosting--cloud)
+- 💫 [⭐ Pinned Projects](#pinned-projects-)
+- 💚 [📁 Other Projects](#other-projects-️)
+- 🩷 [🏆 Journey & Milestones](#journey--milestones-)
+  - 💛 [🏅 Key Achievements](#key-achievements)
+- 💜 [💡 My Philosophy](#my-philosophy-)
+- 💙 [🤝 Get Involved](#get-involved-)
+- 💚 [🌐 Contact & Socials](#contact--socials-)
+- 💖 [🌻 Why Follow My Journey?](#why-follow-my-journey-)
 
 ---
 
