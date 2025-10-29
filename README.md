@@ -20,15 +20,16 @@
 ---
 
 ## 📌 Table of Contents
-- [About Me](#about-me)
-- [Tech Stack](#-tech-stack)
-- [Pinned Projects](#pinned-projects)
-- [Other Projects](#other-projects)
-- [Journey & Milestones](#journey--milestones)
-- [My Philosophy](#my-philosophy)
-- [Get Involved](#get-involved)
-- [Contact & Socials](#contact--socials)
-- [Why Follow?](#why-follow-my-journey)
+- [About Me 🚀](#about-me-🚀)
+- [Tech Stack 🛠️](#🛠️-tech-stack)
+- [Pinned Projects ⭐](#pinned-projects-⭐)
+- [Other Projects 🗂️](#other-projects-🗂️)
+- [Journey & Milestones 🏆](#journey--milestones-🏆)
+- [My Philosophy 💡](#my-philosophy-💡)
+- [Get Involved 🤝](#get-involved-🤝)
+- [Contact & Socials 🌐](#contact--socials-🌐)
+- [Why Follow My Journey 🌟](#why-follow-my-journey-🌟)
+
 
 
 ---
