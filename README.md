@@ -11,6 +11,10 @@
 
 ---
 
+<img src="banner.png">
+
+---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=deepdeyiitgn" alt="deepdeyiitgn's profile views" />
 </p>
