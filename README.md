@@ -1,3 +1,4 @@
+[![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://qlynk.vercel.app/)
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" alt="wave" />
 </p>
@@ -93,6 +94,8 @@ I am building a path to the IIT dream not only through hard work and consistency
 [![discord.py](https://img.shields.io/badge/discord.py-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordpy.readthedocs.io/en/stable/)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
 
+<img height="230" align="right" alt="coding" src="https://media2.giphy.com/media/MunViQ5feR29sMFVfa/giphy.gif?cid=6c09b952c7jgvpp3bgsgpsv3g2gk3sob02xw7i851m73fgfz&rid=giphy.gif&ct=s">
+
 ---
 
 ### 🎬 **Media & Content Creation**
@@ -125,6 +128,18 @@ I am building a path to the IIT dream not only through hard work and consistency
 
 ---
 
+<div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=deepdeyiitgn&show_icons=true&locale=en&theme=transparent" alt="deepdeyiitgn" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepdeyiitgn&show_icons=true&locale=en&layout=compact&theme=transparent" alt="deepdeyiitgn" /></p>
+
+
+  <img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" />
+    
+</div>
+
+
+---
 
 
 ## Pinned Projects ⭐
