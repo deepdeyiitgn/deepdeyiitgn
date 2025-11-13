@@ -1,3 +1,5 @@
+
+
 [![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://qlynk.vercel.app/)
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" alt="wave" />
@@ -44,6 +46,10 @@
 - 💙 [🤝 Get Involved](#get-involved-)
 - 💚 [🌐 Contact & Socials](#contact--socials-)
 - 💖 [🌻 Why Follow My Journey?](#why-follow-my-journey-)
+
+---
+
+### <samp>&gt; Hi there, I'm <a href="https://qlynk.vercel.app/" target="_blank">Deep Dey</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
 
 ---
 
