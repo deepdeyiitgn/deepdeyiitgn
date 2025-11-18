@@ -6,7 +6,7 @@
 </p>
 
 <h1 align="center">
-    <img src="https://i.postimg.cc/VsH23hRg/cropped-circle-image.png" width="40" alt="Deep Dey Logo" style="vertical-align:middle; margin-left:10px;" />
+    <img href="https://qlynk.vercel.app" src="https://qlynk.vercel.app/wiki-images/Deep_Dey_portrait_2025.png" width="40" alt="Deep Dey Logo" style="vertical-align:middle; margin-left:10px;" />
   Hi, I'm Deep Dey 
   <img src="https://img.shields.io/badge/-Future%20IITian-%23FF5F1F?style=flat-square&logo=google&logoColor=white" alt="Future IITian" />
 </h1>
