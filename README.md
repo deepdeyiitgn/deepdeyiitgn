@@ -224,7 +224,9 @@ I do not write complex code by hand or have mastery over coding languages in the
   <a href="https://discord.gg/bSghTD4PVY"><img src="https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge" /></a>
   <a href="https://open.spotify.com/playlist/6KIXCU0MCMP86td8GmLgxj"><img src="https://img.shields.io/badge/Spotify-Playlist-1DB954?style=for-the-badge" /></a>
   <a href="https://taplink.cc/deepdey.official"><img src="https://img.shields.io/badge/All%20Links-Taplink-3a0ca3?style=for-the-badge" /></a>
+  <a href="https://qlynk.vercel.app"><img src="https://img.shields.io/badge/Quicklink-URL%20Shortener-00E5FF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTI4IiBoZWlnaHQ9IjEyOCIgdmlld0JveD0iMCAwIDEyOCAxMjgiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHJlY3Qgd2lkdGg9IjEyOCIgaGVpZ2h0PSIxMjgiIHJ4PSIyNCIgZmlsbD0iIzBhMGExYSIvPjxnIHRyYW5zZm9ybT0ic2NhbGUoMy41NSkgdHJhbnNsYXRlKDgsIDgpIj48cGF0aCBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGQ9Ik0xMy4xOSA4LjY4OGE0LjUgNC41IDAgMDEuMjQyIDcuMjQ0bC00LjUgNC41YTQuNSA0LjUgMCAwMS02LjM2NC02LjM2NGwxLjc1Ny0xLjc1N20xMy4zNS0uNjIybDEuNzU3LTEuNzU3YTQuNSA0LjUgMCAwMC02LjM2NC02LjM2NGwtNC41IDQuNWE0LjUgNC41IDAgMDAxLjI0MiA3LjI0NCIgc3Ryb2tlPSIjMDBlNWZmIiBzdHJva2Utd2lkdGg9IjEuNSIvPjxwYXRoIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgZD0iTTUuMjUgNS4yNWgxMy41IiBzdHJva2U9IiMwMGU1ZmYiIHN0cm9rZS13aWR0aD0iMS41Ii8+PHBhdGggc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBkPSJNNy4yNSAxOC43NWgxMy41IiBzdHJva2U9IiMwMGU1ZmYiIHN0cm9rZS13aWR0aD0iMS41Ii8+PC9nPjwvc3ZnPg==" /></a>
 </p>
+
 
 ---
 
