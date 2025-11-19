@@ -2,7 +2,7 @@
 
 [![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://qlynk.vercel.app/)
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" alt="wave" />
+  <img src="https://github.com/deepdeyiitgn/deepdeyiitgn/blob/main/Coder%20Boy%20Deep.gif?raw=true" width="40" alt="wave" />
 </p>
 
 <h1 align="center">
@@ -18,7 +18,7 @@
 
 ---
 
-<img src="https://i.postimg.cc/zfJdLw7B/Dee-Dey-s-Banner-y-YT.png">
+<img src="https://github.com/deepdeyiitgn/deepdeyiitgn/blob/main/banner.png?raw=true">
 
 ---
 
