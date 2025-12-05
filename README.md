@@ -156,8 +156,8 @@ I am building a path to the IIT dream not only through hard work and consistency
 | 🚀 **deydeep** | Personal experiments, AI-built web and educational utilities. | [deydeep Repo](https://github.com/deepdeyiitgn/deydeep) |
 | 💖 **donation** | Platform for donations and supporter engagement, with personalized thank-you pages. | [donation Repo](https://github.com/deepdeyiitgn/donation) |
 | 🔒 **Verify & Support** | A modular, client-side human verification system featuring multiple challenge modules (text, math, slider, moving dot), session management (6-hour token), and secure redirection. Fully static, professional, and deployable on GitHub Pages. | [support & verify Repo](https://github.com/deepdeyiitgn/support-page-deepdeyiitk.com) |
-| 🤖 **deepdey-discord_bot** | Modular Discord bot • Study tools, quizzes, reminders, games. Want to know All Features, Visit: [Click Here](https://deepdey-discord-bot.vercel.app) | [Bot's Repo](https://github.com/deepdeyiitgn/deepdey-discord_bot) |
-| 🔗 **Quick Link** | A modern, fast, and easy-to-use URL shortener. Create custom, memorable short links for any website. Features include optional custom aliases and automatic expiration of links after 7 days., Visit: [Click Here](https://qlynk.vercel.app/) | [Shortner's Repo](https://github.com/deepdeyiitgn/QuickLink) |
+| 🤖 **deepdey-discord_bot** | Modular Discord bot • Study tools, quizzes, reminders, games. Want to know All Features, Visit: [Click Here](https://deepdey-discord-bot.vercel.app) | [Bot's Repo(DEMO)](https://github.com/deepdeyiitgn/studybot) |
+| 🔗 **Quick Link** | A modern, fast, and easy-to-use URL shortener. Create custom, memorable short links for any website. Features include optional custom aliases and automatic expiration of links after 7 days., Visit: [Click Here](https://qlynk.vercel.app/) | [Shortner's Repo (DEMO)](https://github.com/deepdeyiitgn/QuickLink) |
 ---
 
 ## Other Projects 🗂️
@@ -178,9 +178,12 @@ timeline
     2024 : Launched YouTube channel & interactive study website
     2025 : Cleared 10th Board (TBSE) - 93% Maths, 80.6% overall
     2025 : 21-day live study streak & regular 5-6 AM sessions
+    2025 : 30-day live study streak & regular 5-6 AM sessions
     2025 : Mentored peers, published resource portal, grew online community
     2026 : Master Class 11 and all JEE syllabus topics of Class 11
-    2027 : Score 240+ in JEE Mains, 330+ in JEE Advanced, secure AIR < 70, and get admission to IIT Kanpur (CSE Branch)
+    2026 : 60-day live study streak & regular 5-6 AM sessions
+    2027 : Score 240+ in JEE Mains, 330+ in JEE Advanced, secure AIR < 70, and get admission to IIT Kanpur/Gandhinagar/Kharagpur (CSE Branch)
+    2028 : Upgrade in quality of my content in youtube and also Quicklink & Discord Study Bot
 ```
 
 ### Key Achievements
