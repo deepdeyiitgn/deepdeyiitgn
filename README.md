@@ -1,8 +1,8 @@
 
 
 [![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://qlynk.vercel.app/)
-<p align="center">
-  <img src="https://github.com/deepdeyiitgn/deepdeyiitgn/blob/main/Coder%20Boy%20Deep.gif?raw=true" width="40" alt="wave" />
+<p align="center" href="https://qlynk.vercel.app/">
+  <img src="https://qlynk.vercel.app/Deep_Dey.gif" width="40" alt="wave" />
 </p>
 
 <h1 align="center">
