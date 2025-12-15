@@ -256,7 +256,7 @@ I do not write complex code by hand or have mastery over coding languages in the
 ---
 <div align="center"> 
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepdeyiitgn&stats_format=bytes)](https://deepdeyiitk.com/)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepdeyiitgn&stats_format=bytes)](https://qlynk.me/)
 </div>
 
 ---
