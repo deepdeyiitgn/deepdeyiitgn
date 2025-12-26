@@ -24,7 +24,10 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=deepdeyiitgn" alt="deepdeyiitgn's profile views" />
+  <img href="https://discord.com/invite/t6ZKNw556n" src="https://img.shields.io/discord/1322854959686877185?color=blue&labelColor=555555&label=&logo=discord&style=for-the-badge" alt="Discord" />
 </p>
+
+
 
   
 
@@ -111,6 +114,7 @@ I am building a path to the IIT dream not only through hard work and consistency
 [![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)](https://www.canva.com/)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 [![YouTube](https://img.shields.io/badge/Premium-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/)
+[![Discord](https://img.shields.io/discord/1322854959686877185?color=blue&labelColor=555555&label=&logo=discord&style=for-the-badge)](https://discord.com/invite/t6ZKNw556n "Discord")
 
 ---
 
