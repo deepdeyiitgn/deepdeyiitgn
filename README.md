@@ -165,6 +165,7 @@ I am building a path to the IIT dream not only through hard work and consistency
 | 🔒 **Verify & Support** | A modular, client-side human verification system featuring multiple challenge modules (text, math, slider, moving dot), session management (6-hour token), and secure redirection. Fully static, professional, and deployable on GitHub Pages. | [support & verify Repo](https://github.com/deepdeyiitgn/support-page-deepdeyiitk.com) |
 | 🤖 **deepdey-discord_bot** | Modular Discord bot • Study tools, quizzes, reminders, games. Want to know All Features, Visit: [Click Here](https://deepdey-discord-bot.vercel.app) | [Bot's Repo(DEMO)](https://github.com/deepdeyiitgn/studybot) |
 | 🔗 **Quick Link** | A modern, fast, and easy-to-use URL shortener. Create custom, memorable short links for any website. Features include optional custom aliases and automatic expiration of links after 7 days., Visit: [Click Here](https://qlynk.vercel.app/) | [Shortner's Repo (DEMO)](https://github.com/deepdeyiitgn/QuickLink) |
+| ⌚ **TransparentClock** | A minimal, always-on-top transparent clock overlay for students and focused users. [Check Our App](https://github.com/deepdeyiitgn/Clock-Overlays/releases/tag/v29.01.2026)  | [TransparentClock Repo](https://github.com/deepdeyiitgn/Clock-Overlays/) |
 ---
 
 ## Other Projects 🗂️
