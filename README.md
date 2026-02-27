@@ -25,6 +25,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=deepdeyiitgn" alt="deepdeyiitgn's profile views" />
   <a href='https://quicklink.en.uptodown.com/windows' title='Download Quicklink' > <img src='https://stc.utdstc.com/img/mediakit/certified-free.png' alt='Download Quicklink'> </a>
+  <a href='https://transparent-clock.en.uptodown.com/windows' title='Download Transparent Clock' > <img src='https://stc.utdstc.com/img/mediakit/certified-free.png' alt='Download Transparent Clock'> </a>  
   <a href='https://discord.com/invite/t6ZKNw556n' title='Discord' > <img src='https://img.shields.io/discord/761276047974858762?color=blue&labelColor=555555&label=&logo=discord&style=for-the-badge' alt='Discord'> </a>
  <!-- <a href='https://discord.com/invite/nW9rNEa8J7' title='Discord' > <img src='https://img.shields.io/discord/761276047974858762?color=blue&labelColor=555555&label=&logo=discord&style=for-the-badge' alt='Discord'> </a>
   <a href='https://discord.com/invite/t6ZKNw556n' title='Discord' > <img src='https://img.shields.io/discord/1322854959686877185?color=blue&labelColor=555555&label=&logo=discord&style=for-the-badge' alt='Discord'> </a>  -->
