@@ -165,7 +165,7 @@ I am building a path to the IIT dream not only through hard work and consistency
 
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=deepdeyiitgn&theme=highcontrast&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=deepdeyiitgn&theme=highcontrast&hide_border=true&short_numbers=true)](https://en.uptodown.com/developer/deep-dey)
 
 ---
 
