@@ -142,7 +142,15 @@ I am building a path to the IIT dream not only through hard work and consistency
 
 ---
 
+### 💖 **In Summary**
 
+<p align="center">
+  <a href="https://www.instagram.com/deepdey.official" target="_blank">
+    <img src="https://skillicons.dev/icons?i=cs,py,c,cpp,java,ts,js,html,css,react,nextjs,nodejs,express,vite,tailwind,bootstrap,mysql,mongodb,postgres,firebase,github,git,vscode,postman,docker,vercel,netlify,windows,ps,ai,pr,ae,figma,tensorflow,pytorch,discord,instagram,linkedin,twitter,stackoverflow&perline=10" />
+  </a>
+</p>
+
+---
 
 ### 🎧 **Spotify History**
 
