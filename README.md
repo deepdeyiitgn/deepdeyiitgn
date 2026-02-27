@@ -157,7 +157,7 @@ I am building a path to the IIT dream not only through hard work and consistency
 
 
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=cixlt2z71bbl1o1xlncgiwbvb&unique={true|1|on|yes})
+[![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=cixlt2z71bbl1o1xlncgiwbvb&unique={true|1|on|yes})](https://qlynk.vercel.app/sukoon)
 
 ---
 
