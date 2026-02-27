@@ -161,6 +161,14 @@ I am building a path to the IIT dream not only through hard work and consistency
 
 ---
 
+### 🔥 **Github Streak**
+
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=deepdeyiitgn&theme=highcontrast&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
+
+---
+
 <div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=deepdeyiitgn&show_icons=true&locale=en&theme=transparent" alt="deepdeyiitgn" /></p>
 
