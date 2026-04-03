@@ -196,6 +196,7 @@ I am building a path to the IIT dream not only through hard work and consistency
 | 🤖 **deepdey-discord_bot** | Modular Discord bot • Study tools, quizzes, reminders, games. Want to know All Features, Visit: [Click Here](https://deepdey-discord-bot.vercel.app) | [Bot's Repo(DEMO)](https://github.com/deepdeyiitgn/studybot) |
 | 🔗 **Quick Link** | A modern, fast, and easy-to-use URL shortener. Create custom, memorable short links for any website. Features include optional custom aliases and automatic expiration of links after 7 days., Visit: [Click Here](https://qlynk.vercel.app/) | [Shortner's Repo (DEMO)](https://github.com/deepdeyiitgn/QuickLink) |
 | ⌚ **TransparentClock** | A minimal, always-on-top transparent clock overlay for students and focused users. [Check Our App](https://clock.qlynk.me/)  | [TransparentClock Repo](https://github.com/deepdeyiitgn/Clock-Overlays/) |
+| ☁️ **Qlynk Node Master** | An enterprise-grade, highly secure private cloud storage and streaming datacenter. [Visit Vault](https://static.qlynk.me/) | [Node Master Repo](https://github.com/deepdeyiitgn/static-files) [Github Repo](https://github.com/deepdeyiitgn/static-files)|
 ---
 
 ## Other Projects 🗂️
