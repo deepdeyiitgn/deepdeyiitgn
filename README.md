@@ -158,7 +158,7 @@ I am building a path to the IIT dream not only through hard work and consistency
 
 
 
-[![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=cixlt2z71bbl1o1xlncgiwbvb&theme=spotify&count=10&width=670&radius=18&unique=1&duration=1&album=1&footer=wave)](https://qlynk.vercel.app/sukoon)
+[![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=cixlt2z71bbl1o1xlncgiwbvb&theme=spotify&count=10&width=1000&radius=18&unique=1&duration=1&album=1&footer=wave)](https://qlynk.vercel.app/sukoon)
 
 ---
 
