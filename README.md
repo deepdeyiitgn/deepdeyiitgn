@@ -164,6 +164,15 @@ I am building a path to the IIT dream not only through hard work and consistency
 
 ---
 
+
+## 🎵 Now Playing
+
+<p align="center">
+  <img src="https://deep.qlynk.me/nowplaying/github" alt="Deep Dey Now Playing">
+</p>
+
+---
+
 ### 🔥 **Github Streak**
 
 
