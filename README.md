@@ -165,11 +165,35 @@ I am building a path to the IIT dream not only through hard work and consistency
 ---
 
 
-## 🎵 Now Playing
+<h3>🎧 Now Playing</h3>
 
-<p align="center">
-  <img src="https://deep.qlynk.me/nowplaying/github" alt="Deep Dey Now Playing">
-</p>
+<a href="https://deep.qlynk.me/nowplaying">
+  <img src="https://deep.qlynk.me/nowplaying/github" alt="Deep Dey — Now Playing">
+</a>
+
+<h3>🔥 Top Songs</h3>
+
+<a href="https://deep.qlynk.me/top-song">
+  <img src="https://deep.qlynk.me/top-song/github" alt="Deep Dey — Top Songs">
+</a>
+
+<h3>🎤 Top Artists</h3>
+
+<a href="https://deep.qlynk.me/top-artist">
+  <img src="https://deep.qlynk.me/top-artist/github" alt="Deep Dey — Top Artists">
+</a>
+
+<h3>📊 Spotify Overview</h3>
+
+<a href="https://deep.qlynk.me/spotify-overview">
+  <img src="https://deep.qlynk.me/spotify-overview/github" alt="Deep Dey — Spotify Overview">
+</a>
+
+<h3>🎵 Spotify Main</h3>
+
+<a href="https://deep.qlynk.me/spotify-main">
+  <img src="https://deep.qlynk.me/spotify-main/github" alt="Deep Dey — Spotify Main">
+</a>
 
 ---
 
