@@ -173,7 +173,7 @@ I am building a path to the IIT dream not only through hard work and consistency
 
 <h3>🩷 Last Played Songs</h3>
 
-<a href="https://deep.qlynk.me/top-song">
+<a href="https://deep.qlynk.me/last-played">
   <img src="https://deep.qlynk.me/last-played/github" alt="Deep Dey — Last Played Songs">
 </a>
 
