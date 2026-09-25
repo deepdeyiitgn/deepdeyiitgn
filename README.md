@@ -62,7 +62,7 @@
 
 ## About Me 🚀
 
-Hello! I’m **Deep Dey**, currently a Class 11 CBSE student from Tripura, with my eyes set on cracking **JEE 2027** and earning a seat at **IIT Kanpur (CSE branch)**.  
+Hello! I’m **Deep Dey**, currently a Class 12 CBSE student from Tripura, with my eyes set on cracking **JEE 2027** and earning a seat at **IIT Kanpur (CSE branch)**.  
 My journey is defined by ambition, relentless discipline, and a modern approach to learning and building — by leveraging the power of Artificial Intelligence.
 
 ### 🎯 My Mission & Ambitious Goals
