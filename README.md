@@ -171,6 +171,12 @@ I am building a path to the IIT dream not only through hard work and consistency
   <img src="https://deep.qlynk.me/nowplaying/github" alt="Deep Dey — Now Playing">
 </a>
 
+<h3>🩷 Last Played Songs</h3>
+
+<a href="https://deep.qlynk.me/top-song">
+  <img src="https://deep.qlynk.me/last-played/github" alt="Deep Dey — Last Played Songs">
+</a>
+
 <h3>🔥 Top Songs</h3>
 
 <a href="https://deep.qlynk.me/top-song">
